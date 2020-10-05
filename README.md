@@ -1,4 +1,4 @@
-#Game of War README
+# Game of War README
 ### Hanna Alanizi
 
 This was a fun and simple c++ implementation of the Game of War. It consists of these files:
